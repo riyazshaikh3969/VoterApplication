@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VotingApp</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="candidate_1">Candidate 1</string>
+    <string name="candidate_3">Candidate 3</string>
+    <string name="candidate_2">Candidate 2</string>
+    <string name="candidate_4">Candidate 4</string>
+    <string name="voting_lists">Voting Lists</string>
+    <string name="voting_results">Voting Results</string>
+    <string name="candidate_1_res">Candidate 1 =></string>
+    <string name="candidate_2_res">Candidate 2 =></string>
+    <string name="candidate_3_res">Candidate 3 =></string>
+    <string name="candidate_4_res">Candidate 4 =></string>
+    <string name="votes">Votes</string>
+    <string name="_1">1</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+
+</resources>
